@@ -23,6 +23,7 @@ Flash
 Java
 Easy-Creds
 Java
+
 ... and more!
 
 Lazy-Kali will also update Kali, Start Metaploit Services, Start Stop And Update Open-Vas
