@@ -28,5 +28,3 @@ Java
 Lazy-Kali will also update Kali, Start Metaploit Services, Start Stop And Update Open-Vas
 
 This is the first version, script is self updating so more will be added in a short time. Will try to add requested features.
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/38PXNJpIwck" frameborder="0" allowfullscreen></iframe>
